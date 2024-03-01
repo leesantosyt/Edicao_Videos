@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Edicao_de_videos/static/css/main.bd0853d3.css",
+    "main.js": "/Edicao_de_videos/static/js/main.f278979b.js",
+    "static/js/787.48bc3d2f.chunk.js": "/Edicao_de_videos/static/js/787.48bc3d2f.chunk.js",
+    "static/media/float-car-video.mp4": "/Edicao_de_videos/static/media/float-car-video.bf761a8312cc515e39ef.mp4",
+    "static/media/car-video.mp4": "/Edicao_de_videos/static/media/car-video.cd1cf79ce3c4ac1c3737.mp4",
+    "static/media/testando2.png": "/Edicao_de_videos/static/media/testando2.ad85b84a7c2dfe19cc8c.png",
+    "static/media/logo_instagram.png": "/Edicao_de_videos/static/media/logo_instagram.f30cc81eac545f820088.png",
+    "static/media/timeline-instagram.png": "/Edicao_de_videos/static/media/timeline-instagram.d4cc9c2b3e2ccd4e4111.png",
+    "static/media/timeline-snap.jpg": "/Edicao_de_videos/static/media/timeline-snap.f5daa759d841e41d9192.jpg",
+    "static/media/img_principal.jpg": "/Edicao_de_videos/static/media/img_principal.22aa5a3d4a135ccde35a.jpg",
+    "static/media/logo_move.png": "/Edicao_de_videos/static/media/logo_move.71ee294e88e9ce88db75.png",
+    "static/media/logo_youtube.png": "/Edicao_de_videos/static/media/logo_youtube.6f9e32ba8209c71da075.png",
+    "index.html": "/Edicao_de_videos/index.html",
+    "main.bd0853d3.css.map": "/Edicao_de_videos/static/css/main.bd0853d3.css.map",
+    "main.f278979b.js.map": "/Edicao_de_videos/static/js/main.f278979b.js.map",
+    "787.48bc3d2f.chunk.js.map": "/Edicao_de_videos/static/js/787.48bc3d2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd0853d3.css",
+    "static/js/main.f278979b.js"
+  ]
+}
