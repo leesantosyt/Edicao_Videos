@@ -5,23 +5,6 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import {createBrowserRouter, RouterProvider} from "react-router-dom";
-import Home from "./App";
-import Videos from './Videos';
-import Contato from './contato';
-const router = createBrowserRouter([
-  {
-    path: '/home',
-    element: <Home />
-  },
-  {
-    path: '/vídeos',
-    element: <Videos />
-  },
-  {
-    path: '/contato',
-    element: <Contato />
-  }
-])
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
