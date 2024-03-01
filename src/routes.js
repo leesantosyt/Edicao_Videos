@@ -1,7 +1,7 @@
 import { Routes, Route, HashRouter } from "react-router-dom";
 import App from "./App";
 import Videos from "./Videos";
-import Contato from "./Contato";
+import Contato from "./contato";
 
 function RoutesApp() {
     return (
