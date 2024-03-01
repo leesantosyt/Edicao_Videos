@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#principal-videos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container-video {
+    width: 300px;
+    display: flex;
+    align-items: center;
+    transition: width .5s;
+}
+.container-video:hover {
+    width: 600px;
+    transition: width 2s;
+    gap: 20px;
+}
+.videos {
+    height: 30vw;
+}
+.teste50 {
+    display: none;
+    color: #FFF;
+}
+.container-video:hover > .teste50 {
+    display: block; 
+}
